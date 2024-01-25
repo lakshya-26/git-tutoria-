@@ -1,1 +1,4 @@
 secert.txt
+node_modules
+dist
+.parcel-cache
